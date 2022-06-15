@@ -1,0 +1,5 @@
+/* Use CSS Transition to animate the text opacity */
+
+.skillText {
+  transition: opacity 0.4s;
+}
